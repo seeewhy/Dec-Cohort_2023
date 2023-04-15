@@ -1,5 +1,0 @@
-CD every change that passes all stages of the pipeline and released to prodcution environment without human intervention.
-git clone
-git add .
-git commit 
-git push origin main
